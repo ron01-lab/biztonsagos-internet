@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <title>Biztonságos Internethasználat</title>
+    styles.css
+</head>
+<body>
+
+<header>
+    <h1>🌐 Biztonságos Internethasználat</h1>
+    <p>Védd magad az interneten!</p>
+</header>
+
+<nav>
+    #jelszo🔒 Jelszóbiztonság</a>
+    #adatok🛡️ Személyes adatok</a>
+    #adathalaszat🎣 Adathalászat</a>
+    #eszkoz🖥️ Eszközvédelem</a>
+    #ismeretlenek👤 Ismeretlenek</a>
+    #kozossegi📱 Közösségi média</a>
+    #kritikus💡 Kritikus gondolkodás</a>
+</nav>
+
+<main>
+
+<section id="jelszo" class="card">
+    <h2>🔒 Jelszóbiztonság</h2>
+    <ul>
+        <li>Használj erős, egyedi jelszavakat</li>
+        <li>Ne használd ugyanazt több helyen</li>
+        <li>Használj jelszókezelőt</li>
+        <li>Kétlépcsős azonosítás (2FA)</li>
+    </ul>
+</section>
+
+<section id="adatok" class="card">
+    <h2>🛡️ Személyes adatok védelme</h2>
+    <ul>
+        <li>Ne oszd meg lakcímed vagy telefonszámod</li>
+        <li>Figyelj, mit posztolsz</li>
+        <li>Állítsd be adatvédelmi beállításaidat</li>
+    </ul>
+</section>
+
+<section id="adathalaszat" class="card">
+    <h2>🎣 Adathalászat</h2>
+    <ul>
+        <li>Ne kattints gyanús linkekre</li>
+        <li>Ellenőrizd az e-mail címeket</li>
+        <li>Bank soha nem kér jelszót e-mailben</li>
+    </ul>
+</section>
+
+<section id="eszkoz" class="card">
+    <h2>🖥️ Eszközvédelem</h2>
+    <ul>
+        <li>Tartsd frissen a rendszert</li>
+        <li>Használj vírusirtót</li>
+        <li>Zárold le eszközödet</li>
+    </ul>
+</section>
+
+<section id="ismeretlenek" class="card">
+    <h2>👤 Ismeretlenek kezelése</h2>
+    <ul>
+        <li>Ne fogadj el idegeneket</li>
+        <li>Ne küldj személyes információt</li>
+        <li>Jelentsd a gyanús profilokat</li>
+    </ul>
+</section>
+
+<section id="kozossegi" class="card">
+    <h2>📱 Közösségi média tudatosság</h2>
+    <ul>
+        <li>Állítsd privátra a profilod</li>
+        <li>Ne ossz meg túl sok információt</li>
+        <li>Gondold meg mit posztolsz</li>
+    </ul>
+</section>
+
+<section id="kritikus" class="card">
+    <h2>💡 Kritikus gondolkodás</h2>
+    <ul>
+        <li>Ellenőrizd a forrásokat</li>
+        <li>Ne higgy el mindent</li>
+        <li>Figyelj az álhírekre</li>
+    </ul>
+</section>
+
+<section class="card">
+    <h2>➕ További tippek</h2>
+    <ul>
+        <li>Ne használj nyilvános WiFi-t érzékeny adatokhoz</li>
+        <li>Használj HTTPS oldalakat</li>
+        <li>Készíts biztonsági mentést</li>
+    </ul>
+</section>
+
+</main>
+
+<footer>
+    <p>© 2026 Biztonságos Internet</p>
+</footer>
+
+</body>
+</html>
